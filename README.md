@@ -1,5 +1,5 @@
 # PRODIGY_SD_02
-Contact Management System
+Guessing Game
 The aim is to create a Java Programm in which a user is given K chances to estimate a randomly generated number. 
 # Rules
 The game's rules are as follows:-
